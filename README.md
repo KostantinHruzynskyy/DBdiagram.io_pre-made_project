@@ -162,7 +162,7 @@ DBML (Database Markup Language) is a simple and human-readable language used to 
 
 Example:
 
-```dbml
+dbml
 Table users {
   id int [pk, increment]
   username varchar(100) [not null]
