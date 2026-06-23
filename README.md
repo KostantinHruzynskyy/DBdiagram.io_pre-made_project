@@ -52,7 +52,7 @@ DBML (Database Markup Language) è un linguaggio semplice e leggibile per defini
 
 Esempio:
 
-```dbml
+dbml
 Table users {
   id int [pk, increment]
   username varchar(100) [not null]
@@ -169,7 +169,7 @@ Table users {
   email varchar(255) [unique]
   created_at timestamp
 }
-```
+
 
 ## 📂 Included Projects
 
