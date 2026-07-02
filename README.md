@@ -259,3 +259,5 @@ This repository is intended for educational purposes, learning database design p
 ---
 
 Created to practice Database Design, SQL, and DBDiagram.io.
+
+Main Finished
